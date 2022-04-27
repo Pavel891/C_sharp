@@ -1,0 +1,15 @@
+C:\Users\pavel\project\sharp_projects\lerning_projects\wake_up_neo\bin\Debug\net6.0\wake_up_neo.exe
+C:\Users\pavel\project\sharp_projects\lerning_projects\wake_up_neo\bin\Debug\net6.0\wake_up_neo.deps.json
+C:\Users\pavel\project\sharp_projects\lerning_projects\wake_up_neo\bin\Debug\net6.0\wake_up_neo.runtimeconfig.json
+C:\Users\pavel\project\sharp_projects\lerning_projects\wake_up_neo\bin\Debug\net6.0\wake_up_neo.dll
+C:\Users\pavel\project\sharp_projects\lerning_projects\wake_up_neo\bin\Debug\net6.0\wake_up_neo.pdb
+C:\Users\pavel\project\sharp_projects\lerning_projects\wake_up_neo\obj\Debug\net6.0\wake_up_neo.csproj.AssemblyReference.cache
+C:\Users\pavel\project\sharp_projects\lerning_projects\wake_up_neo\obj\Debug\net6.0\wake_up_neo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\project\sharp_projects\lerning_projects\wake_up_neo\obj\Debug\net6.0\wake_up_neo.AssemblyInfoInputs.cache
+C:\Users\pavel\project\sharp_projects\lerning_projects\wake_up_neo\obj\Debug\net6.0\wake_up_neo.AssemblyInfo.cs
+C:\Users\pavel\project\sharp_projects\lerning_projects\wake_up_neo\obj\Debug\net6.0\wake_up_neo.csproj.CoreCompileInputs.cache
+C:\Users\pavel\project\sharp_projects\lerning_projects\wake_up_neo\obj\Debug\net6.0\wake_up_neo.dll
+C:\Users\pavel\project\sharp_projects\lerning_projects\wake_up_neo\obj\Debug\net6.0\refint\wake_up_neo.dll
+C:\Users\pavel\project\sharp_projects\lerning_projects\wake_up_neo\obj\Debug\net6.0\wake_up_neo.pdb
+C:\Users\pavel\project\sharp_projects\lerning_projects\wake_up_neo\obj\Debug\net6.0\wake_up_neo.genruntimeconfig.cache
+C:\Users\pavel\project\sharp_projects\lerning_projects\wake_up_neo\obj\Debug\net6.0\ref\wake_up_neo.dll
